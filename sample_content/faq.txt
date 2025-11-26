@@ -1,0 +1,16 @@
+Frequently Asked Questions:
+
+Q: How do I get started?
+A: Sign up for a free trial at our website. You'll get instant access to our platform 
+   and can start building automations right away.
+
+Q: What integrations do you support?
+A: We support over 100 popular business tools including Salesforce, Slack, Google 
+   Workspace, Microsoft 365, and many more.
+
+Q: Is my data secure?
+A: Yes, we take security very seriously. All data is encrypted in transit and at rest, 
+   and we're SOC 2 Type II certified.
+
+Q: Can I cancel anytime?
+A: Yes, you can cancel your subscription at any time with no penalties.

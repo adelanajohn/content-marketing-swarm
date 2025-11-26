@@ -1,0 +1,19 @@
+Pricing Plans:
+
+Starter Plan - $49/month
+- Up to 1,000 API calls
+- Basic support
+- 1 user
+
+Professional Plan - $199/month
+- Up to 10,000 API calls
+- Priority support
+- 5 users
+- Advanced analytics
+
+Enterprise Plan - Custom pricing
+- Unlimited API calls
+- Dedicated support
+- Unlimited users
+- Custom integrations
+- SLA guarantees
