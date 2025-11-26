@@ -1,0 +1,6 @@
+alb_dns_name = "content-marketing-swarm-dev-alb-41944691.us-east-1.elb.amazonaws.com"
+cloudfront_domain_name = "d2b386ss3jk33z.cloudfront.net"
+db_endpoint = <sensitive>
+ecs_cluster_name = "content-marketing-swarm-dev-cluster"
+images_bucket_name = "content-marketing-swarm-dev-images"
+vpc_id = "vpc-0c6cc3ed6217e0d53"

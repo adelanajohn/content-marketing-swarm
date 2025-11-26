@@ -1,0 +1,32 @@
+{
+  "alb_dns_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "content-marketing-swarm-dev-alb-41944691.us-east-1.elb.amazonaws.com"
+  },
+  "cloudfront_domain_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "d2b386ss3jk33z.cloudfront.net"
+  },
+  "db_endpoint": {
+    "sensitive": true,
+    "type": "string",
+    "value": "content-marketing-swarm-dev-db.cqfmm84m4b1y.us-east-1.rds.amazonaws.com:5432"
+  },
+  "ecs_cluster_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "content-marketing-swarm-dev-cluster"
+  },
+  "images_bucket_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "content-marketing-swarm-dev-images"
+  },
+  "vpc_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "vpc-0c6cc3ed6217e0d53"
+  }
+}
